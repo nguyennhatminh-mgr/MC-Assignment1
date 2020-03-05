@@ -1,0 +1,11 @@
+
+        int main(){
+            if(a>b){ a =a + 1;
+            break;
+            continue;
+            }
+            else{
+                a=-b;
+            }
+        }
+        

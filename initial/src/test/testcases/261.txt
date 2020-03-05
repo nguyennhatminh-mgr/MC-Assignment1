@@ -1,0 +1,4 @@
+float gt(int n){
+                    return a*;        
+                }
+        

@@ -1,0 +1,9 @@
+
+        void main(string args[]){
+            do{ 
+                a+b=1;
+                if(a>b) break;
+                else return; 
+            }while a<b+c;
+        }
+        

@@ -1,0 +1,11 @@
+
+        void main(string args[]){
+            do{ 
+                consolelog("string\n");
+                print(a,b,c);
+                if(PPL==pass)
+                    print("An mung");
+            }
+            while (PPL==pass);
+        }
+        

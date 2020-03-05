@@ -1,0 +1,8 @@
+
+        int main(){
+            a[4];
+            if(true) return false;
+            if(0.5) return z;
+            if(1e2) break;
+        }
+        

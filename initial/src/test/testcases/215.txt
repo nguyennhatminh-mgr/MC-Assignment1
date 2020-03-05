@@ -1,0 +1,3 @@
+int a,b,c;
+                float b[10];
+                boolean xyz;

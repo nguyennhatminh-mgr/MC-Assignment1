@@ -1,0 +1,9 @@
+
+        float main(){
+            int a[10],i;
+            for(){
+                if(i==false)
+                    return true;
+            }
+        }
+        

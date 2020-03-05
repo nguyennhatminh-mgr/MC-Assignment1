@@ -1,0 +1,1 @@
+int,*,a,;,int,arr,[,10,],;,a,=,arr,;,<EOF>

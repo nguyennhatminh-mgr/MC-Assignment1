@@ -1,0 +1,8 @@
+float gt(int n){
+                        a>b;
+                        a=x*y/z;
+                        x2;
+                        a[4];
+                    }    
+                }
+        

@@ -1,0 +1,8 @@
+
+        float a(){}
+        int main(){
+            string a[10];
+            a[a[5]]=true;
+            if(a>b) a=true; else if(a<=c>d) return "o"; else a<=(b+5);
+        }
+        

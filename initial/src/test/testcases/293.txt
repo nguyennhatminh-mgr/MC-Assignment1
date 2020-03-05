@@ -1,0 +1,8 @@
+
+        float a(){}
+        int main(){
+            else {
+                a=a[a>b-c];
+            }
+        }
+        

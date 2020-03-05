@@ -1,0 +1,1 @@
+float arr[10]; putStringLn(arr[5]);

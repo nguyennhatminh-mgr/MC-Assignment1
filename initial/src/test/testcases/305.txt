@@ -1,0 +1,6 @@
+void func(){
+            int a;
+            -i+a>b;
+            *a=true;
+        }
+        

@@ -1,0 +1,7 @@
+float foo(string a, int b){
+            int a,b[10];
+            string str[4];
+        }
+        void a(){
+            boolean b[9];
+        }

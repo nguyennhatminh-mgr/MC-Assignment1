@@ -1,0 +1,10 @@
+
+        float a(){
+            int a[9],i;
+            for(i=8;i>=0;i=i+2){
+                if(i==false)
+                    return true;
+            }
+            print("successful");
+        }
+        

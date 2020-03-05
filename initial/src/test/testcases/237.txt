@@ -1,0 +1,5 @@
+
+        int main(){
+            cout((array[i])[j]);
+        }
+        

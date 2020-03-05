@@ -1,0 +1,8 @@
+
+        void main(string args[]){
+            do{ 
+                void var;
+            }
+            while a[a<b+c];
+        }
+        

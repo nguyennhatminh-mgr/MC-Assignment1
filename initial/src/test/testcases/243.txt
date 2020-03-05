@@ -1,0 +1,9 @@
+
+        void main(string args[]){
+            do{ 
+                //void var;
+                -a+c=d;
+            }
+            while a>2.4e3;
+        }
+        

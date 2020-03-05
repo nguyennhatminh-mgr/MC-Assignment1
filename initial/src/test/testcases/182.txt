@@ -1,0 +1,1 @@
+string arr[10]; putStringLn(arr);

@@ -1,0 +1,9 @@
+
+        void main(string args[]){
+            { 
+                //void var;
+                -a+c=d;
+            }
+            while (PPL==pass);
+        }
+        

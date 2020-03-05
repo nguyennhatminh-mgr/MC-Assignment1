@@ -1,0 +1,5 @@
+float gt(int n){
+                    a[a[x=y+z]]=ab;
+                    x2;     
+                }
+        

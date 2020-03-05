@@ -1,0 +1,7 @@
+
+        int main(){
+            cout((array[i])[j]);
+            if(a>c) continue;
+        }
+  
+        

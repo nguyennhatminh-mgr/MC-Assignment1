@@ -1,0 +1,10 @@
+
+        void main(string args[]){
+            while{ 
+                dowhilebidao=true;
+                return false;
+                toPassPPL=true;
+            }
+            do (PPL==pass);
+        }
+        

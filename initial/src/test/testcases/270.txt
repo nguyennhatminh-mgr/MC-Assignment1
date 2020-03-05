@@ -1,0 +1,5 @@
+int main(){
+            float a;
+            a(10,a[a[7]],c+d>b);
+        } 
+        

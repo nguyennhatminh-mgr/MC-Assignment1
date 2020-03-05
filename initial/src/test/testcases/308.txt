@@ -1,0 +1,6 @@
+void func(){
+            a=true;
+            array[true+false]=true*false;
+            b[true[false]]=false;
+        }
+        

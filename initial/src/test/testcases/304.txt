@@ -1,0 +1,7 @@
+void func(){
+            int a;
+            i+i;
+            a-a;
+            z*z+3;
+        }
+        

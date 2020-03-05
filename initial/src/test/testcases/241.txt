@@ -1,0 +1,14 @@
+
+        void main(string args[]){
+            do{ 
+                a+b=1;
+                if(a>b) break;
+                else return; 
+                {
+                    int x,y,z;
+                    x=y+z;
+                }
+            }
+            while a[a<b+c];
+        }
+        

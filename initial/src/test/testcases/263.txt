@@ -1,0 +1,6 @@
+float gt(int n){
+                    n=n*n;
+                    gt(100,n+2);
+                    1.E2;        
+                }
+        

@@ -1,0 +1,9 @@
+
+        int test(){
+            if(a>4) return;
+            i+2;
+            i=i+4;
+            z>=5+2;
+            if(b) return z+2;
+        }
+        

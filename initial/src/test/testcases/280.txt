@@ -1,0 +1,6 @@
+
+        void main(int a[],float b,string c){
+            array[a[a[c]+b]]=c**b-d/a;
+            x<=y || a == b && c>d;
+        }
+        

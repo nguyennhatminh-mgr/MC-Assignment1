@@ -1,0 +1,6 @@
+
+            float[] main(string a[], b){
+            int a,b[10];
+            boolean array[400+m];
+        }
+        

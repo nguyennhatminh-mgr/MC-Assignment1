@@ -1,0 +1,4 @@
+
+                int a,b,c=10;
+                float b[10]; string c[0];
+                boolean xyz;

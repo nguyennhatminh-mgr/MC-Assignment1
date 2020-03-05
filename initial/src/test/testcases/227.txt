@@ -1,0 +1,12 @@
+
+        int main(){
+            if(a>b){ a =a + 1;
+                break;
+                continue;
+            }
+            else{
+                if(a-b>=6) return;
+                break;
+            }
+        }
+        
